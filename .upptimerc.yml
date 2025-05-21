@@ -32,8 +32,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: 
-    themeUrl: https://status.allflyquest.com/allfly-light.css
+  themeUrl: https://status.allflyquest.com/allfly-light.css
     
 
 # Upptime also supports notifications, assigning issues, and more
