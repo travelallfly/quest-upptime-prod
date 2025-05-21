@@ -32,8 +32,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: 
+    themeUrl: https://status.allflyquest.com/allfly-light.css
+    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
   footer: This page is maintained with ❤️ by the AllFly Quest team
+
