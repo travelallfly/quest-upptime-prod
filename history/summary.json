@@ -24,19 +24,19 @@
     "url": "https://test.allflyquest.com/api/version",
     "icon": "https://icons.duckduckgo.com/ip3/test.allflyquest.com.ico",
     "slug": "quest-api",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "84.88%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.90%",
-    "time": 321,
-    "timeDay": 4077,
-    "timeWeek": 2385,
-    "timeMonth": 991,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "83.52%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.89%",
+    "time": 319,
+    "timeDay": 3636,
+    "timeWeek": 2233,
+    "timeMonth": 968,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2025-10-20": 217
+      "2025-10-20": 237
     }
   },
   {
