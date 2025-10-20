@@ -1,7 +1,7 @@
 url: https://test.allflyquest.com/api/version
-status: down
-code: 500
-responseTime: 20079
-lastUpdated: 2025-10-20T17:33:15.532Z
+status: up
+code: 200
+responseTime: 148
+lastUpdated: 2025-10-20T17:52:11.327Z
 startTime: 2025-05-21T13:25:33.932Z
 generator: Upptime <https://github.com/upptime/upptime>
