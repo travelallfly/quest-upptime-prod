@@ -4,36 +4,40 @@
     "url": "https://test.allflyquest.com",
     "icon": "https://icons.duckduckgo.com/ip3/test.allflyquest.com.ico",
     "slug": "quest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 261,
-    "timeWeek": 355,
-    "timeMonth": 435,
-    "timeYear": 417,
-    "dailyMinutesDown": {}
+    "time": 578,
+    "timeDay": 13171,
+    "timeWeek": 3571,
+    "timeMonth": 1263,
+    "timeYear": 578,
+    "dailyMinutesDown": {
+      "2025-10-20": 1
+    }
   },
   {
     "name": "Quest API",
     "url": "https://test.allflyquest.com/api/version",
     "icon": "https://icons.duckduckgo.com/ip3/test.allflyquest.com.ico",
     "slug": "quest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 114,
-    "timeWeek": 127,
-    "timeMonth": 139,
-    "timeYear": 130,
-    "dailyMinutesDown": {}
+    "time": 290,
+    "timeDay": 12883,
+    "timeWeek": 3318,
+    "timeMonth": 962,
+    "timeYear": 290,
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "Backoffice",
