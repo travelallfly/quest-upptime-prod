@@ -1,7 +1,7 @@
 url: https://backoffice.allflyquest.com/api/version
-status: up
-code: 200
-responseTime: 5918
-lastUpdated: 2025-10-20T09:30:41.975Z
+status: down
+code: 500
+responseTime: 20031
+lastUpdated: 2025-10-20T15:30:22.237Z
 startTime: 2025-05-21T13:25:35.391Z
 generator: Upptime <https://github.com/upptime/upptime>
