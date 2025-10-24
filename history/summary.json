@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.allflyquest.com.ico",
     "slug": "quest",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.82%",
     "uptimeMonth": "97.43%",
-    "uptimeYear": "99.49%",
-    "time": 567,
-    "timeDay": 305,
-    "timeWeek": 2648,
-    "timeMonth": 1164,
-    "timeYear": 567,
+    "uptimeYear": "99.50%",
+    "time": 566,
+    "timeDay": 454,
+    "timeWeek": 2676,
+    "timeMonth": 1169,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2025-10-21": 804,
       "2025-10-20": 322
@@ -31,11 +31,11 @@
     "uptimeWeek": "87.81%",
     "uptimeMonth": "97.20%",
     "uptimeYear": "99.45%",
-    "time": 427,
-    "timeDay": 129,
+    "time": 425,
+    "timeDay": 106,
     "timeWeek": 2843,
     "timeMonth": 1363,
-    "timeYear": 427,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2025-10-21": 805,
       "2025-10-20": 424
@@ -52,11 +52,11 @@
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
-    "time": 315,
-    "timeDay": 207,
-    "timeWeek": 266,
-    "timeMonth": 317,
-    "timeYear": 315,
+    "time": 314,
+    "timeDay": 139,
+    "timeWeek": 262,
+    "timeMonth": 315,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2025-10-20": 81
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.96%",
-    "time": 322,
-    "timeDay": 319,
-    "timeWeek": 241,
-    "timeMonth": 316,
-    "timeYear": 322,
+    "time": 321,
+    "timeDay": 220,
+    "timeWeek": 240,
+    "timeMonth": 315,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2025-10-20": 92
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "97.96%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.91%",
-    "time": 573,
-    "timeDay": 75,
-    "timeWeek": 4167,
+    "time": 570,
+    "timeDay": 98,
+    "timeWeek": 4169,
     "timeMonth": 2036,
-    "timeYear": 573,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2025-10-20": 207
     }
