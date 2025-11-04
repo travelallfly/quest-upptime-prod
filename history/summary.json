@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "99.53%",
-    "time": 557,
-    "timeDay": 364,
-    "timeWeek": 414,
-    "timeMonth": 1130,
-    "timeYear": 557,
+    "time": 556,
+    "timeDay": 362,
+    "timeWeek": 382,
+    "timeMonth": 1127,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2025-10-21": 804,
       "2025-10-20": 322
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.allflyquest.com.ico",
     "slug": "quest-api",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "99.48%",
-    "time": 409,
-    "timeDay": 118,
-    "timeWeek": 132,
-    "timeMonth": 1331,
-    "timeYear": 409,
+    "uptimeYear": "99.49%",
+    "time": 408,
+    "timeDay": 187,
+    "timeWeek": 134,
+    "timeMonth": 1332,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2025-10-21": 805,
       "2025-10-20": 424
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
-    "time": 313,
-    "timeDay": 244,
-    "timeWeek": 297,
-    "timeMonth": 304,
-    "timeYear": 313,
+    "time": 312,
+    "timeDay": 272,
+    "timeWeek": 267,
+    "timeMonth": 300,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2025-10-20": 81
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.96%",
     "time": 320,
-    "timeDay": 274,
-    "timeWeek": 317,
-    "timeMonth": 301,
+    "timeDay": 377,
+    "timeWeek": 304,
+    "timeMonth": 303,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2025-10-20": 92
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.91%",
-    "time": 544,
-    "timeDay": 79,
-    "timeWeek": 83,
+    "time": 541,
+    "timeDay": 81,
+    "timeWeek": 76,
     "timeMonth": 1991,
-    "timeYear": 544,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2025-10-20": 207
     }
