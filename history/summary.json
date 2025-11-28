@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 542,
-    "timeDay": 425,
-    "timeWeek": 449,
-    "timeMonth": 425,
+    "timeDay": 640,
+    "timeWeek": 507,
+    "timeMonth": 426,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2025-10-21": 804,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 377,
-    "timeDay": 116,
-    "timeWeek": 142,
+    "time": 376,
+    "timeDay": 167,
+    "timeWeek": 149,
     "timeMonth": 134,
-    "timeYear": 377,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2025-10-21": 805,
       "2025-10-20": 424
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 311,
-    "timeDay": 313,
-    "timeWeek": 322,
-    "timeMonth": 301,
-    "timeYear": 311,
+    "time": 312,
+    "timeDay": 469,
+    "timeWeek": 353,
+    "timeMonth": 300,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2025-10-20": 81
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 321,
-    "timeDay": 294,
-    "timeWeek": 341,
-    "timeMonth": 328,
-    "timeYear": 321,
+    "time": 322,
+    "timeDay": 453,
+    "timeWeek": 385,
+    "timeMonth": 327,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-10-20": 92
     }
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/backoffice.allflyquest.com.ico",
     "slug": "backoffice-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 492,
-    "timeDay": 71,
-    "timeWeek": 83,
-    "timeMonth": 84,
-    "timeYear": 492,
+    "uptimeYear": "99.93%",
+    "time": 490,
+    "timeDay": 121,
+    "timeWeek": 91,
+    "timeMonth": 83,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2025-10-20": 207
     }
