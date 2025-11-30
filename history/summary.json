@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 543,
-    "timeDay": 673,
-    "timeWeek": 553,
-    "timeMonth": 433,
-    "timeYear": 543,
+    "time": 541,
+    "timeDay": 274,
+    "timeWeek": 511,
+    "timeMonth": 430,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2025-10-21": 804,
       "2025-10-20": 322
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.allflyquest.com.ico",
     "slug": "quest-api",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
-    "time": 375,
-    "timeDay": 186,
-    "timeWeek": 159,
+    "uptimeYear": "99.56%",
+    "time": 374,
+    "timeDay": 130,
+    "timeWeek": 155,
     "timeMonth": 135,
-    "timeYear": 375,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2025-10-21": 805,
       "2025-10-20": 424
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 313,
-    "timeDay": 484,
-    "timeWeek": 392,
-    "timeMonth": 304,
-    "timeYear": 313,
+    "time": 312,
+    "timeDay": 200,
+    "timeWeek": 362,
+    "timeMonth": 302,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2025-10-20": 81
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 323,
-    "timeDay": 511,
-    "timeWeek": 421,
-    "timeMonth": 329,
-    "timeYear": 323,
+    "time": 322,
+    "timeDay": 203,
+    "timeWeek": 391,
+    "timeMonth": 325,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-10-20": 92
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 488,
-    "timeDay": 129,
-    "timeWeek": 101,
+    "time": 486,
+    "timeDay": 61,
+    "timeWeek": 95,
     "timeMonth": 84,
-    "timeYear": 488,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2025-10-20": 207
     }
