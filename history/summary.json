@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 538,
-    "timeDay": 375,
-    "timeWeek": 450,
-    "timeMonth": 448,
-    "timeYear": 538,
+    "time": 537,
+    "timeDay": 274,
+    "timeWeek": 392,
+    "timeMonth": 442,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-10-21": 804,
       "2025-10-20": 322
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.allflyquest.com.ico",
     "slug": "quest-api",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 366,
-    "timeDay": 131,
-    "timeWeek": 139,
-    "timeMonth": 136,
-    "timeYear": 366,
+    "uptimeYear": "99.58%",
+    "time": 364,
+    "timeDay": 93,
+    "timeWeek": 129,
+    "timeMonth": 135,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2025-10-21": 805,
       "2025-10-20": 424
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 313,
-    "timeDay": 308,
-    "timeWeek": 333,
+    "time": 312,
+    "timeDay": 190,
+    "timeWeek": 304,
     "timeMonth": 314,
-    "timeYear": 313,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2025-10-20": 81
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 321,
-    "timeDay": 199,
-    "timeWeek": 316,
-    "timeMonth": 326,
+    "timeDay": 229,
+    "timeWeek": 285,
+    "timeMonth": 324,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2025-10-20": 92
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 472,
-    "timeDay": 83,
-    "timeWeek": 96,
-    "timeMonth": 87,
-    "timeYear": 472,
+    "time": 470,
+    "timeDay": 47,
+    "timeWeek": 84,
+    "timeMonth": 86,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2025-10-20": 207
     }
