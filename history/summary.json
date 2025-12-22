@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.allflyquest.com.ico",
     "slug": "quest",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
-    "time": 538,
-    "timeDay": 287,
-    "timeWeek": 725,
-    "timeMonth": 504,
-    "timeYear": 538,
+    "uptimeYear": "99.64%",
+    "time": 537,
+    "timeDay": 236,
+    "timeWeek": 711,
+    "timeMonth": 501,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-10-21": 804,
       "2025-10-20": 322
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 352,
-    "timeDay": 100,
+    "time": 351,
+    "timeDay": 110,
     "timeWeek": 128,
-    "timeMonth": 134,
-    "timeYear": 352,
+    "timeMonth": 133,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2025-10-21": 805,
       "2025-10-20": 424
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 311,
-    "timeDay": 204,
-    "timeWeek": 318,
-    "timeMonth": 314,
-    "timeYear": 311,
+    "time": 310,
+    "timeDay": 173,
+    "timeWeek": 312,
+    "timeMonth": 313,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2025-10-20": 81
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 319,
-    "timeDay": 259,
-    "timeWeek": 297,
-    "timeMonth": 319,
+    "timeDay": 197,
+    "timeWeek": 299,
+    "timeMonth": 317,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2025-10-20": 92
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 450,
-    "timeDay": 84,
-    "timeWeek": 88,
+    "time": 449,
+    "timeDay": 71,
+    "timeWeek": 91,
     "timeMonth": 87,
-    "timeYear": 450,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2025-10-20": 207
     }
