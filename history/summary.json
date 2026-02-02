@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 512,
-    "timeDay": 229,
-    "timeWeek": 375,
-    "timeMonth": 355,
-    "timeYear": 512,
+    "time": 524,
+    "timeDay": 3775,
+    "timeWeek": 862,
+    "timeMonth": 463,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2025-10-21": 804,
       "2025-10-20": 322
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 317,
-    "timeDay": 95,
-    "timeWeek": 121,
-    "timeMonth": 119,
-    "timeYear": 317,
+    "time": 328,
+    "timeDay": 3515,
+    "timeWeek": 606,
+    "timeMonth": 229,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-10-21": 805,
       "2025-10-20": 424
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 303,
-    "timeDay": 146,
-    "timeWeek": 279,
-    "timeMonth": 250,
+    "timeDay": 404,
+    "timeWeek": 308,
+    "timeMonth": 257,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2025-10-20": 81
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/signup.allflyquest.com.ico",
     "slug": "signup",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 310,
-    "timeDay": 213,
-    "timeWeek": 280,
-    "timeMonth": 249,
-    "timeYear": 310,
+    "uptimeYear": "99.98%",
+    "time": 311,
+    "timeDay": 404,
+    "timeWeek": 308,
+    "timeMonth": 257,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2025-10-20": 92
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 394,
-    "timeDay": 72,
-    "timeWeek": 79,
-    "timeMonth": 75,
-    "timeYear": 394,
+    "time": 393,
+    "timeDay": 112,
+    "timeWeek": 86,
+    "timeMonth": 76,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2025-10-20": 207
     }
